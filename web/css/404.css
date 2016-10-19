@@ -1,0 +1,31 @@
+html, body {
+    font-family: "Times New Roman";
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+}
+.main {
+    display: table;
+    width: 99.8vw;
+    height: 99.5vh;
+    margin: 0;
+    padding: 0;
+}
+.inner {
+    display: table-cell;
+    vertical-align: top;
+    padding-top: 5rem;
+    text-align: center;
+}
+h1 {
+    font-size: 2rem;
+}
+.error {
+    position: absolute;
+    color: grey;
+    font-family: Arial;
+    font-style: italic;
+    font-size: 8rem;
+    margin-left: -15rem;
+    margin-top: -5rem;
+}

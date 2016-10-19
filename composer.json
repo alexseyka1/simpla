@@ -1,0 +1,15 @@
+{
+  "name": "alexseyka1/simpla",
+  "description": "Simpla Framework",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Alexsey Gaidai",
+      "email": "alexseyka1@gmail.com"
+    }
+  ],
+  "require": {
+    "clnt/materialize": "dev-master"
+  }
+}

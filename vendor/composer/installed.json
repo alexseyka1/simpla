@@ -1,0 +1,50 @@
+[
+    {
+        "name": "clnt/materialize",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Clnt/materialize.git",
+            "reference": "a2ee114fd8aa74d1ec418bafe5258db133c4b3c7"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Clnt/materialize/zipball/a2ee114fd8aa74d1ec418bafe5258db133c4b3c7",
+            "reference": "a2ee114fd8aa74d1ec418bafe5258db133c4b3c7",
+            "shasum": ""
+        },
+        "time": "2015-04-24 07:38:12",
+        "type": "library",
+        "installation-source": "source",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Alvin Wang",
+                "email": "alvin7@gmail.com"
+            },
+            {
+                "name": "Alan Chang"
+            },
+            {
+                "name": "Alex Mark",
+                "email": "ajmark@andrew.cmu.edu",
+                "homepage": "http://ajmark.com"
+            },
+            {
+                "name": "Kevin Louie"
+            }
+        ],
+        "description": "A modern responsive front-end framework based on Material Design",
+        "homepage": "http://dogfalo.github.io/materialize/index.html",
+        "keywords": [
+            "design",
+            "framework",
+            "front-end",
+            "material"
+        ]
+    }
+]
